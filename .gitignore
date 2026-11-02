@@ -7,3 +7,22 @@ __pycache__/
 venv/
 .env
 .pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+*.pyc
+
+# Generated output and temp files
+output/
+output/temp/
+output/logs/
+
+# Secrets
+.env
+*.key
+
+# Editor
+.vscode/
