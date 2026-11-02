@@ -1,0 +1,33 @@
+=== NARRATION SCRIPT ===
+Welcome to Skyline Greens in Sector 82, Gurugram. This 3 B H K Apartment is priced at Rupees 1,45,00,000. Spacious balconies. Covered car parking. twenty four seven power backup. Gated society with park. Modular kitchen. Book your site visit today. For enquiries, contact Agent at plus nine one 98111 98222.
+
+=== SCENE CAPTIONS ===
+Scene 1 (TITLE):
+  Heading: Skyline Greens
+  Heading: 3-BHK Apartment in Sector 82, Gurugram
+  Body:    Price: ₹ 1,45,00,000
+
+Scene 2 (FEATURE):
+  Heading: Spacious balconies
+  Footer:  Skyline Greens
+
+Scene 3 (FEATURE):
+  Heading: Covered car parking
+  Footer:  Skyline Greens
+
+Scene 4 (FEATURE):
+  Heading: 24/7 power backup
+  Footer:  Skyline Greens
+
+Scene 5 (FEATURE):
+  Heading: Gated society with park
+  Footer:  Skyline Greens
+
+Scene 6 (FEATURE):
+  Heading: Modular kitchen
+  Footer:  Skyline Greens
+
+Scene 7 (CTA):
+  Heading: Book your site visit today
+  Body:    Agent | +91 98111 98222
+  Footer:  Skyline Greens

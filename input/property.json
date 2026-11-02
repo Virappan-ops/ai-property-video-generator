@@ -1,0 +1,12 @@
+{
+  "property_name": "Sunrise Heights",
+  "location": "Green Valley, Sample City",
+  "price": "₹ 65,00,000",
+  "property_type": "2-BHK Apartment",
+  "key_features": ["Spacious balcony", "Covered parking", "24/7 security", "Near metro station", "Modular kitchen"],
+  "contact_name": "Sample Agent",
+  "contact_phone": "+91 00000 00000",
+  "cta_text": "Book your site visit today",
+  "images": ["images/img1.jpg", "images/img2.jpg", "images/img3.jpg", "images/img4.jpg", "images/img5.jpg"],
+  "narration_enabled": true
+}

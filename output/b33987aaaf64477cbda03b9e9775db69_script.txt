@@ -1,0 +1,38 @@
+=== NARRATION SCRIPT ===
+Welcome to Sun rize Heights in Green Valley, Sample City. This 2 B H K Apartment is priced at Rupees 65,00,000. Spacious balcony, as seen in the balcony view. Covered parking, as seen in the parking. twenty four seven security, as seen in the security. Near metro station, as seen in the metro city. Modular kitchen, as seen in the kitchen view. Book your site visit today. For enquiries, contact Sample Agent at plus nine one 00000 00000.
+
+=== SCENE CAPTIONS ===
+Scene 1 (TITLE):
+  Heading: Sunrise Heights
+  Heading: 2-BHK Apartment in Green Valley, Sample City
+  Body:    Price: ₹ 65,00,000
+
+Scene 2 (FEATURE):
+  Heading: Spacious balcony
+  Footer:  Sunrise Heights
+  Photo:   Balcony View
+
+Scene 3 (FEATURE):
+  Heading: Covered parking
+  Footer:  Sunrise Heights
+  Photo:   Parking
+
+Scene 4 (FEATURE):
+  Heading: 24/7 security
+  Footer:  Sunrise Heights
+  Photo:   SECURITY
+
+Scene 5 (FEATURE):
+  Heading: Near metro station
+  Footer:  Sunrise Heights
+  Photo:   Metro city
+
+Scene 6 (FEATURE):
+  Heading: Modular kitchen
+  Footer:  Sunrise Heights
+  Photo:   Kitchen View
+
+Scene 7 (CTA):
+  Heading: Book your site visit today
+  Body:    Sample Agent | +91 00000 00000
+  Footer:  Sunrise Heights
